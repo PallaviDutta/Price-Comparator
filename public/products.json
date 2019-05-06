@@ -1,39 +1,39 @@
 {
   "products": [{
       "id": "1",
-      "name": "Cherry",
-      "image": "images/Cherry.png",
-      "price": "$1.99",
+      "name": "Dabbing Panda ",
+      "image": "images/1.png",
+      "price": "₹299",
       "colors": ["red", "green", "blue"],
-      "condition": "Fresh",
-      "description": "Two Cherries"
+      "condition": "S, M, XL",
+      "description": "Trending"
     },
     {
       "id": "2",
-      "name": "Orange",
-      "image": "images/Orange.png",
-      "price": "$2.99",
+      "name": "High Josh",
+      "image": "images/2.png",
+      "price": "₹249",
       "colors": ["green", "blue"],
-      "condition": "Frozen",
-      "description": "Giant Orange"
+      "condition": "XS, M, XXL",
+      "description": "Best Seller"
     },
     {
       "id": "3",
-      "name": "Nuts",
-      "image": "images/Nuts.png",
-      "price": "$1.00",
+      "name": "Good Vibes",
+      "image": "images/3.png",
+      "price": "₹349",
       "colors": ["red"],
-      "condition": "Frozen",
-      "description": "Mixed Nuts"
+      "condition": "S, M, L",
+      "description": "Few Sizes Left"
     },
     {
       "id": "4",
-      "name": "Strawberry",
-      "image": "images/Strawberry.png",
-      "price": "$1.49",
+      "name": "Cute Af",
+      "image": "images/4.png",
+      "price": "₹399",
       "colors": ["blue"],
-      "condition": "Fresh",
-      "description": "Just Strawberry"
-    }
+      "condition": "XS, M, XXL",
+      "description": "Clearance Price"
+    }  
   ]
 }

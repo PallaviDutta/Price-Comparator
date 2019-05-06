@@ -17,7 +17,7 @@ class Home extends Component {
       <div className="home mt-5">
         <div className="row">
           <div className="col-12">
-            <center><h2 className="mb-3">Compare Price</h2></center>
+            <center><h2 className="mb-3">Compare T-Price</h2></center>
           </div>
         </div>
         <ProductList products={products} compare={actions.compare}/>
